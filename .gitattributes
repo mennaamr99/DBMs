@@ -1,0 +1,6 @@
+*.sql linguist-language=SQL
+*.pls linguist-language=PLSQL
+*.pks linguist-language=PLSQL
+*.pkb linguist-language=PLSQL
+*.sh linguist-detectable=true
+*.sh linguist-vendored=false
